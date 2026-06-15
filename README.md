@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFkYTQ0N3RweGw1ZmR3MzU5dmNveXF6aHZoZGUweGl4eGlpZnNuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gw3IWyGkC0rsazTi/giphy.gif" width="100"/>
 </div>
 
-# 👋 Привет, я Диана — QA Engineer
+<img src="images/banner.png" alt="Диана — QA Engineer (Automation)" width="100%"/>
 
 <img src="images/icons/java.svg" width="32" alt="Java"/> <img src="images/icons/Selenide.svg" width="32" alt="Selenide"/> <img src="images/icons/JUnit5.svg" width="32" alt="JUnit 5"/> <img src="images/icons/Allure.svg" width="32" alt="Allure"/> <img src="images/icons/Gradle.svg" width="32" alt="Gradle"/> <img src="images/icons/Selenoid.svg" width="32" alt="Selenoid"/> <img src="images/icons/Jenkins.svg" width="32" alt="Jenkins"/> <img src="images/icons/Telegram.svg" width="32" alt="Telegram"/>
 
