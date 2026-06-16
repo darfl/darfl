@@ -4,10 +4,10 @@
 
 <img src="images/banner.png" alt="Диана — QA Engineer (Automation)" width="100%"/>
 
-<img src="images/icons/java.svg" width="32" alt="Java"/> <img src="images/icons/Selenide.svg" width="32" alt="Selenide"/> <img src="images/icons/JUnit5.svg" width="32" alt="JUnit 5"/> <img src="images/icons/Allure.svg" width="32" alt="Allure"/> <img src="images/icons/Gradle.svg" width="32" alt="Gradle"/> <img src="images/icons/Selenoid.svg" width="32" alt="Selenoid"/> <img src="images/icons/Jenkins.svg" width="32" alt="Jenkins"/> <img src="images/icons/Telegram.svg" width="32" alt="Telegram"/>
+<img src="images/icons/java.svg" width="32" alt="Java"/> <img src="images/icons/Selenide.svg" width="32" alt="Selenide"/> <img src="images/icons/JUnit5.svg" width="32" alt="JUnit 5"/> <img src="images/icons/Allure.svg" width="32" alt="Allure"/> <img src="images/icons/Gradle.svg" width="32" alt="Gradle"/> <img src="images/icons/Selenoid.svg" width="32" alt="Selenoid"/> <img src="images/icons/Jenkins.svg" width="32" alt="Jenkins"/> <img src="images/icons/Telegram.svg" width="32" alt="Telegram"/> <img src="images/icons/Intelij_IDEA.svg" width="32" alt="IntelliJ IDEA"/> <img src="images/icons/visual-studio-code.svg" width="32" alt="VS Code"/> <img src="images/icons/AllureTestOps.svg" width="32" alt="Allure TestOps"/>
 
 <table align="center">
-<tr><td bgcolor="#bd5aaf" align="center" style="padding: 12px 24px; border-radius: 8px;">
+<tr><td bgcolor="#8d92d8" align="center" style="padding: 12px 24px; border-radius: 8px;">
 <b>Автоматизирую тестирование на Java: UI (Selenide) и REST API (RestAssured). Пишу поддерживаемые тесты с читаемыми отчётами Allure и запуском в CI.</b>
 </td></tr>
 </table>
@@ -18,7 +18,7 @@
 |---------|-------------|
 | Язык | <img src="images/icons/java.svg" width="16"/> Java 17+ |
 | UI-тесты | <img src="images/icons/Selenide.svg" width="16"/> Selenide, Selenium, Page Object Model |
-| API-тесты | RestAssured, Lombok POJO |
+| API-тесты | <img src="images/icons/Rest-Assured.png" width="16"/> RestAssured, Lombok POJO |
 | Фреймворк | <img src="images/icons/JUnit5.svg" width="16"/> JUnit Jupiter 5 |
 | Отчёты | <img src="images/icons/Allure.svg" width="16"/> Allure (кастомные шаблоны, @Step, аттачменты) |
 | Сборка | <img src="images/icons/Gradle.svg" width="16"/> Gradle, Maven |
