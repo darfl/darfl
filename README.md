@@ -4,15 +4,16 @@
 
 <img src="images/banner2.png" alt="Диана — QA Engineer (Automation)" width="100%"/>
 
-<img src="images/icons/java.svg" width="32" alt="Java"/> <img src="images/icons/Selenide.svg" width="32" alt="Selenide"/> <img src="images/icons/JUnit5.svg" width="32" alt="JUnit 5"/> <img src="images/icons/Allure.svg" width="32" alt="Allure"/> <img src="images/icons/Gradle.svg" width="32" alt="Gradle"/> <img src="images/icons/Selenoid.svg" width="32" alt="Selenoid"/> <img src="images/icons/Jenkins.svg" width="32" alt="Jenkins"/> <img src="images/icons/Telegram.svg" width="32" alt="Telegram"/> <img src="images/icons/Intelij_IDEA.svg" width="32" alt="IntelliJ IDEA"/> <img src="images/icons/visual-studio-code.svg" width="32" alt="VS Code"/> <img src="images/icons/AllureTestOps.svg" width="32" alt="Allure TestOps"/>
-
 <table align="center">
 <tr><td bgcolor="#8d92d8" align="center" style="padding: 12px 24px; border-radius: 8px;">
 <b>Автоматизирую тестирование на Java: UI (Selenide) и REST API (RestAssured). Пишу поддерживаемые тесты с читаемыми отчётами Allure и запуском в CI.</b>
 </td></tr>
 </table>
 
-## 🛠️ Стек
+
+<img src="images/icons/java.svg" width="32" alt="Java"/> <img src="images/icons/Intelij_IDEA.svg" width="32" alt="IntelliJ IDEA"/> <img src="images/icons/visual-studio-code.svg" width="32" alt="VS Code"/> <img src="images/icons/Selenide.svg" width="32" alt="Selenide"/> <img src="images/icons/JUnit5.svg" width="32" alt="JUnit 5"/> <img src="images/icons/Allure.svg" width="32" alt="Allure"/> <img src="images/icons/Gradle.svg" width="32" alt="Gradle"/> <img src="images/icons/Selenoid.svg" width="32" alt="Selenoid"/> <img src="images/icons/Jenkins.svg" width="32" alt="Jenkins"/> <img src="images/icons/jira.svg" width="32" alt="Jira"/> <img src="images/icons/GitHub.svg" width="32" alt="GitHub"/> <img src="images/icons/Telegram.svg" width="32" alt="Telegram"/> <img src="images/icons/AllureTestOps.svg" width="32" alt="Allure TestOps"/>
+
+## 🛠️ Мой стек технологий
 
 | Область | Инструменты |
 |---------|-------------|
@@ -25,7 +26,7 @@
 | Инфраструктура | <img src="images/icons/Selenoid.svg" width="16"/> Selenoid (Docker, VNC, видео) |
 | Данные | JavaFaker, кастомные фабрики |
 
-## 📂 Проекты
+## 📂 Примеры моих работ
 
 ### [REST API Test Suite](https://github.com/darfl/rest-api-tests) — автотесты для API
 
